@@ -1,8 +1,29 @@
-# JobFlow – End-to-End Job Application Management SaaS
+# JobFlow – End-to-End Job Application Management 
 
-A full-stack **MERN** (MongoDB, Express, React, Node.js) web application for tracking your entire job search in one place.
+Command-line application that helps users track job applications across companies and analyze progress to identify improvement areas.
 
----
+## Features
+- Add job applications
+- View all applications
+- Track status (Applied, Rejected, Selected)
+- Identify weak areas based on results
+
+## Tech Stack
+- Node.js (or your language)
+- File system / Database
+
+## How to Run
+1. Install dependencies:
+   npm install
+
+2. Run the project:
+   node index.js
+
+## Example Usage
+- Add a job
+- View status
+- Analyze progress
+
 
 ## 🗂️ Project Structure
 
